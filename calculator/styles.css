@@ -61,3 +61,6 @@ table {
     background-color: gray;
     border-bottom: 2px solid black;
 }
+a {
+    text-decoration: none;
+}
