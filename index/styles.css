@@ -13,6 +13,7 @@
 #infoContainer {
     padding: 5%;
     background-color:lightgray;
+    border-bottom: 2px solid black;
 }
 #headerInfo {
     text-align: right;
@@ -23,6 +24,13 @@
     text-align: left;
     font-size: 25px;
     width: 80%;
+}
+#footerContainer {
+    padding: 5%;
+    background-color: gray;
+}
+#footerContainer li {
+    display: inline-block;
 }
 body {
     width: 50%;

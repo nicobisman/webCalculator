@@ -29,6 +29,7 @@ input {
 #numberButtonsContainer {
     padding: 5%;
     background-color:lightgray;
+    border-bottom: 2px solid black;
 }
 header {
     border-bottom: 2px solid black;
@@ -63,4 +64,11 @@ table {
 }
 a {
     text-decoration: none;
+}
+#footerContainer {
+    padding: 5%;
+    background-color: gray;
+}
+#footerContainer li {
+    display: inline-block;
 }
